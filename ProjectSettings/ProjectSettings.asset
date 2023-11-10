@@ -829,11 +829,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: b7844882-df77-4378-b6a4-d1cafe8fe4d2
+  cloudProjectId: f18257e9-1eb2-4308-8483-bb766ba4537f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: SynBook
-  organizationId: nekostriker
+  organizationId: kevin_chido_17
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
