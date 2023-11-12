@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EmpanadaDeManzana.unity
     guid: 4019ed1e50250894693a14ce5049722e
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: e3fd4c49479ac6c40bd9eb015fbb9079
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones.unity
+    guid: b2bc4836d9ba2a840806c3a0690e87ed
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ad4f2ffef8ed33d4f81c0e032bd0e8bd, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7f07d2672261984428d3c5584edfd484, type: 2}
