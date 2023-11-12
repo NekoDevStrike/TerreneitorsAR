@@ -11899,6 +11899,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: bigLeavesShrubs Variant (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1996149129273314825, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
+      propertyPath: m_Size.z
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
 --- !u!4 &1430356370 stripped
@@ -12896,6 +12900,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: bigLeavesShrubs Variant (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1996149129273314825, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
+      propertyPath: m_Size.z
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
 --- !u!4 &1867037095 stripped
@@ -12973,6 +12981,10 @@ PrefabInstance:
     - target: {fileID: 1073815990686323864, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
       propertyPath: m_Name
       value: bigLeavesShrubs Variant (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1996149129273314825, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
+      propertyPath: m_Size.z
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
@@ -13259,6 +13271,10 @@ PrefabInstance:
     - target: {fileID: 1073815990686323864, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
       propertyPath: m_Name
       value: bigLeavesShrubs Variant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1996149129273314825, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
+      propertyPath: m_Size.z
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
@@ -13643,6 +13659,10 @@ PrefabInstance:
     - target: {fileID: 1073815990686323864, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
       propertyPath: m_Name
       value: bigLeavesShrubs Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1996149129273314825, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
+      propertyPath: m_Size.z
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6bbaea1be78b8d02d852cd83ce21cd94, type: 3}
